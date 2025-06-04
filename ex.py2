@@ -1,0 +1,4 @@
+nome = input("Digite seu nome: ")  # leia(nome)
+idade = input("Digite sua idade: ")  # idade
+
+print("Olá", nome, "- você tem", idade, "anos.")
